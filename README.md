@@ -5,7 +5,7 @@ This project analyses retail transaction data to understand customer purchasing 
 
 Using Python, SQL and data visualization techniques, the project explores transactional data to identify meaningful business insights and support data-driven decision-making.
 
-![Sales and Customer Dashboard](reports/retail_dashboard.png)
+![Sales and Customer Dashboard](retail_dashboard.png)
 
 ## Business Objectives
 - Analyse overall sales performance and monthly revenue trends.
